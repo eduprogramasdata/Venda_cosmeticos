@@ -95,7 +95,7 @@ Gráficos de barras, mapas interativos e filtros dinâmicos.
 
 https://app.powerbi.com/groups/me/reports/9ae911df-c520-4ecd-bda4-90d6af320474/ff416e81d3d44a277f5d?experience=power-bi
 
-
+![Apresentação1_page-0001](https://github.com/user-attachments/assets/1d57bc0b-79f3-4311-a6a3-338b824bd3f0)
 
 ---
 
